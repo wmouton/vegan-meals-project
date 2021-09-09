@@ -5,6 +5,7 @@ cd into the cloned folder
 run 'npm install' (without the quotes)
 After the steps have been completed and the modules have been loaded, open a terminal in the vegan-meals folder and execute the 'npm start' command (without the quotes)
 Open your browser and in the address bar go to localhost:3000
+
 -------------------------------------------------------------------------
 
 # Getting Started with Create React App
